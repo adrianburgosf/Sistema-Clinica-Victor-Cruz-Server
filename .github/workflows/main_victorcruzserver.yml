@@ -52,5 +52,5 @@ jobs:
         with:
           app-name: 'VictorCruzServer'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_8C688A0B1F9E4C879DC5296372B3891E }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_6F43BEE672E04AFFB083E9F14D2D4A53 }}
           package: .
