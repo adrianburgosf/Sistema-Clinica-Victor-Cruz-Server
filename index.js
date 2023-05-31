@@ -13,6 +13,7 @@ app.listen(port, () => {
   console.log(`Server is running on port ${port}!`);
 });
 
+
 //LOCALHOST MYSQL CONNECTION
 // const pool = mysql.createPool({
 //   host: "localhost",
